@@ -1,4 +1,4 @@
-# Projeto Profile Card 🎴
+# Projeto Menu Responsivo 🎴
 
 ### Desafio do curso DevQuest onde o principal objetivo é construir um menu responsivo usando o modelo do Figma.
 
